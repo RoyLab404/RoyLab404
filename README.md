@@ -1,16 +1,34 @@
-# Roy Lab
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=185&color=0:222624,100:8BAE48&text=Roy%20Lab&fontColor=F5F7F2&fontSize=52&fontAlignY=38&desc=Backend%20Development%20%7C%20Software%20Design&descAlignY=60&descSize=16" alt="Roy Lab - Backend Development and Software Design" />
+</p>
 
-I learn by building practical software projects, with a focus on backend development and software design.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=8BAE48&center=true&vCenter=true&width=650&lines=Building+backend+projects;Exploring+software+design;Learning+Java+and+TypeScript" alt="Building backend projects, exploring software design, learning Java and TypeScript" />
+</p>
 
-## Selected projects
+---
 
-- [SOA-5](https://github.com/RoyLab404/SOA-5) — A TypeScript product management service with JWT authentication, MySQL storage, and CRUD, search, and category endpoints.
-- [SD](https://github.com/RoyLab404/SD) — Java and JavaScript practice covering object-oriented design and patterns such as Strategy.
+### About
 
-## Technologies and topics
+I'm Roy Lab. I learn by turning coursework and ideas into practical software, with a current focus on backend services and software design.
 
-TypeScript · Java · JavaScript · MySQL · REST APIs · JWT · OOP · software design
+- Exploring API development with TypeScript
+- Studying Java, object-oriented design, and design patterns
+- Interested in modular, maintainable software
 
-## Current focus
+### Selected Projects
 
-Learning modular software design, SOLID and GRASP principles, and Java application development.
+| Project | Focus |
+| --- | --- |
+| [SOA-5](https://github.com/RoyLab404/SOA-5) | TypeScript product service with JWT authentication, MySQL, and CRUD/search endpoints |
+| [SD](https://github.com/RoyLab404/SD) | Java and JavaScript practice in OOP and software design patterns |
+
+### Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,java,js,mysql,git,github" alt="TypeScript, Java, JavaScript, MySQL, Git, and GitHub" />
+</p>
+
+### Currently Learning
+
+Java application development, modular design, and SOLID/GRASP principles.
