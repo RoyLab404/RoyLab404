@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=185&color=0:222624,100:8BAE48&text=Roy%20Lab&fontColor=F5F7F2&fontSize=52&fontAlignY=38&desc=Backend%20Development%20%7C%20Software%20Design&descAlignY=60&descSize=16&animation=fadeIn" alt="Roy Lab - Backend Development and Software Design" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=185&color=0:222624,100:8BAE48&text=Roy&fontColor=F5F7F2&fontSize=52&fontAlignY=38&desc=Backend%20Development%20%7C%20Software%20Design&descAlignY=60&descSize=16&animation=fadeIn" alt="Roy - Backend Development and Software Design" />
 </p>
 
 ---
 
 ### About
 
-I'm Roy Lab. I learn by turning coursework and ideas into practical software, with a current focus on backend services and software design.
+I'm Roy. I learn by turning coursework and ideas into practical software, with a current focus on backend services and software design.
 
 - Exploring API development with TypeScript
 - Studying Java, object-oriented design, and design patterns
