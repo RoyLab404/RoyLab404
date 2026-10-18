@@ -23,6 +23,12 @@ I'm Roy Lab. I learn by turning coursework and ideas into practical software, wi
 | [SOA-5](https://github.com/RoyLab404/SOA-5) | TypeScript product service with JWT authentication, MySQL, and CRUD/search endpoints |
 | [SD](https://github.com/RoyLab404/SD) | Java and JavaScript practice in OOP and software design patterns |
 
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoyLab404&theme=radical&hide_border=true" alt="GitHub contribution and streak stats for RoyLab404" />
+</p>
+
 ### Tech Stack
 
 <p align="center">
