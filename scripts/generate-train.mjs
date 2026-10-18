@@ -73,12 +73,15 @@ function render(dark) {
 <path d="M0 ${railY}H${width}" stroke="${dark ? "#57606a" : "#b6bfc8"}" stroke-width="2" />
 <g>${ties}</g>
 <g>
-  <animateTransform attributeName="transform" type="translate" from="-72 ${railY}" to="${width} ${railY}" dur="22s" repeatCount="indefinite" />
+  <animateTransform attributeName="transform" type="translate" from="-72 ${railY}" to="${width} ${railY}" dur="12s" repeatCount="indefinite" />
   <rect x="-42" y="-17" width="16" height="10" rx="2" fill="#6f9d88" />
   <rect x="-23" y="-17" width="16" height="10" rx="2" fill="#d99b3d" />
   <rect x="-5" y="-17" width="27" height="11" rx="2" fill="#8bae48" />
   <rect x="10" y="-25" width="12" height="19" rx="2" fill="#8bae48" />
-  <rect x="5" y="-23" width="5" height="7" rx="1" fill="#d99b3d" />
+  <rect x="5" y="-23" width="5" height="7" rx="1" fill="#d99b3d" />  <circle cx="4" cy="-29" r="2" fill="${dark ? "#aab2bd" : "#6b7280"}" opacity="0">
+    <animate attributeName="r" values="2;5;8" dur="1.5s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0;0.55;0" dur="1.5s" repeatCount="indefinite" />
+  </circle>
   <rect x="18" y="-22" width="2" height="7" fill="#222624" />
   <rect x="20" y="-12" width="7" height="3" rx="1" fill="#d99b3d" />
   <path d="M-26 -10h3M-7 -10h3" stroke="#d99b3d" stroke-width="2" />
