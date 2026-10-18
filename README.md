@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:222624,100:8BAE48&text=Roy&fontColor=F5F7F2&fontSize=58&fontAlignY=38&desc=Backend%20Development%20%7C%20Software%20Design&descAlignY=60&descSize=16&animation=fadeIn" alt="Roy - Backend Development and Software Design" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:222624,100:8BAE48&text=Roy&fontColor=F5F7F2&fontSize=58&fontAlignY=38&desc=Backend%20Development%20%7C%20Software%20Design&descAlignY=60&descSize=16&animation=twinkling" alt="Roy - Backend Development and Software Design" />
 </p>
 
 <p align="center">
@@ -64,8 +64,8 @@ I'm Roy. I learn by building practical projects, with a current focus on backend
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RoyLab404/RoyLab404/output/github-contribution-train-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RoyLab404/RoyLab404/output/github-contribution-train.svg" />
-    <img alt="Animated train traveling along Roy's GitHub contribution grid" src="https://raw.githubusercontent.com/RoyLab404/RoyLab404/output/github-contribution-train.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RoyLab404/RoyLab404/output/github-contribution-train-dark.svg?v=2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RoyLab404/RoyLab404/output/github-contribution-train.svg?v=2" />
+    <img alt="Animated train traveling along Roy's GitHub contribution grid" src="https://raw.githubusercontent.com/RoyLab404/RoyLab404/output/github-contribution-train.svg?v=2" />
   </picture>
 </p>
