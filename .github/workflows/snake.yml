@@ -1,4 +1,4 @@
-name: Generate contribution snake
+name: Generate contribution train
 
 on:
   schedule:
@@ -15,13 +15,15 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake SVGs
-        uses: Platane/snk/svg-only@v3
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-light
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          node-version: 20
+      - name: Generate contribution train SVGs
+        run: node scripts/generate-train.mjs
+        env:
+          GITHUB_USER_NAME: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ github.token }}
       - name: Publish generated SVGs
         uses: peaceiris/actions-gh-pages@v4
         with:
