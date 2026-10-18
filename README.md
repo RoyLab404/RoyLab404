@@ -26,7 +26,7 @@ I'm Roy Lab. I learn by turning coursework and ideas into practical software, wi
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoyLab404&theme=radical&hide_border=true" alt="GitHub contribution and streak stats for RoyLab404" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoyLab404&background=222624&border=303630&stroke=8BAE48&ring=8BAE48&fire=DBE8A6&currStreakNum=F5F7F2&sideNums=F5F7F2&currStreakLabel=F5F7F2&sideLabels=B3B8B3&dates=AAB0AA&hide_border=true" alt="GitHub contribution and streak stats for RoyLab404" />
 </p>
 
 ### Tech Stack
