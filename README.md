@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=185&color=0:222624,100:8BAE48&text=Roy%20Lab&fontColor=F5F7F2&fontSize=52&fontAlignY=38&desc=Backend%20Development%20%7C%20Software%20Design&descAlignY=60&descSize=16" alt="Roy Lab - Backend Development and Software Design" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=8BAE48&center=true&vCenter=true&width=650&lines=Building+backend+projects;Exploring+software+design;Learning+Java+and+TypeScript" alt="Building backend projects, exploring software design, learning Java and TypeScript" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=185&color=0:222624,100:8BAE48&text=Roy%20Lab&fontColor=F5F7F2&fontSize=52&fontAlignY=38&desc=Backend%20Development%20%7C%20Software%20Design&descAlignY=60&descSize=16&animation=fadeIn" alt="Roy Lab - Backend Development and Software Design" />
 </p>
 
 ---
