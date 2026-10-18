@@ -31,6 +31,18 @@ I'm Roy. I learn by turning coursework and ideas into practical software, with a
 
 ---
 
+### Contribution Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RoyLab404/RoyLab404/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RoyLab404/RoyLab404/output/github-contribution-grid-snake.svg" />
+    <img alt="Animated snake following Roy's GitHub contribution grid" src="https://raw.githubusercontent.com/RoyLab404/RoyLab404/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
 ### Tech Stack
 
 <p align="center">
